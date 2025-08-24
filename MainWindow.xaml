@@ -1,0 +1,28 @@
+﻿<Window x:Class="MoonDropDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MoonDrop Desktop" Height="190" Width="640">
+  <Grid Margin="12">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+
+    <StackPanel Orientation="Horizontal">
+      <TextBlock Text="Kayıt Yolu:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+      <TextBox x:Name="txtPath" Width="420" Margin="0,0,8,0"/>
+      <Button Content="Gözat" Width="80" Click="Browse_Click"/>
+    </StackPanel>
+
+    <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,10,0,0">
+      <TextBlock Text="API Anahtarı (ops.):" VerticalAlignment="Center" Margin="0,0,8,0"/>
+      <PasswordBox x:Name="txtApiKey" Width="240" />
+      <Button Content="Kaydet &amp; Başlat" Width="130" Margin="12,0,0,0" Click="SaveAndStart_Click"/>
+      <Button Content="Durdur" Width="90" Margin="8,0,0,0" Click="Stop_Click"/>
+    </StackPanel>
+
+    <TextBlock Grid.Row="2" x:Name="lblStatus" Text="Durum: Beklemede"
+               HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+  </Grid>
+</Window>
