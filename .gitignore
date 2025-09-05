@@ -12,3 +12,10 @@ MoonDrop_Installer/Output/
 # cloudflare secrets (sak?n commit?leme)
 MoonDrop_Installer/cf/*.json
 MoonDrop_Installer/cf/cloudflared.exe
+bin/
+obj/
+**/publish/
+*.pdb
+MoonDrop_Installer/app/
+MoonDrop_Installer/cf/cloudflared.exe
+MoonDrop_Installer/cf/*.json
