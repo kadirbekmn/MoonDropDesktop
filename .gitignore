@@ -1,0 +1,14 @@
+# build
+bin/
+obj/
+*.pdb
+*.user
+**/publish/
+
+# installer outputs
+MoonDrop_Installer/app/
+MoonDrop_Installer/Output/
+
+# cloudflare secrets (sak?n commit?leme)
+MoonDrop_Installer/cf/*.json
+MoonDrop_Installer/cf/cloudflared.exe

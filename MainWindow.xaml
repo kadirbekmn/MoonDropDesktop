@@ -22,7 +22,7 @@
       <Button Content="Durdur" Width="90" Margin="8,0,0,0" Click="Stop_Click"/>
     </StackPanel>
 
-    <TextBlock Grid.Row="2" x:Name="lblStatus" Text="Durum: Beklemede"
-               HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+    <Label Grid.Row="2" x:Name="lblStatus" Content="Durum: Beklemede"
+           HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
   </Grid>
 </Window>

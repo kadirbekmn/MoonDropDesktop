@@ -7,9 +7,11 @@
     <Nullable>enable</Nullable>
     <RootNamespace>MoonDropDesktop</RootNamespace>
     <AssemblyName>MoonDropDesktop</AssemblyName>
+    <ApplicationIcon>moondrop.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <None Include="moondrop.ico" />
   </ItemGroup>
 </Project>

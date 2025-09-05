@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoonDropDesktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a96a44025da0ac262dcc7bfbd6fec162c59916af")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoonDropDesktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoonDropDesktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

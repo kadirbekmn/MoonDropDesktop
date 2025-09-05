@@ -1,8 +1,3 @@
-C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.exe
-C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.deps.json
-C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.runtimeconfig.json
-C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.dll
-C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.pdb
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MainWindow.baml
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\App.g.cs
@@ -12,6 +7,12 @@ C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MoonDropDesktop.GeneratedMS
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MoonDropDesktop.AssemblyInfoInputs.cache
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MoonDropDesktop.AssemblyInfo.cs
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MoonDropDesktop.csproj.CoreCompileInputs.cache
+C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MoonDropDesktop.sourcelink.json
+C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.exe
+C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.deps.json
+C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.runtimeconfig.json
+C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.dll
+C:\src\desk\MoonDropDesktop\bin\Debug\net8.0-windows\MoonDropDesktop.pdb
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MoonDropDesktop.dll
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\refint\MoonDropDesktop.dll
 C:\src\desk\MoonDropDesktop\obj\Debug\net8.0-windows\MoonDropDesktop.pdb
